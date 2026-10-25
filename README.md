@@ -1,0 +1,1 @@
+This application lets users select an event type (Wedding, Birthday, or Community Event), input their budget and details, and instantly generate a customized budget breakdown, countdown timeline, vendor checklist, and creative GenAI-powered theme ideas.
